@@ -1,2 +1,2 @@
 # SOS1920-labs
-Esto es una pagina
+Este es el repositorio del laboratorio l04
