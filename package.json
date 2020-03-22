@@ -1,0 +1,22 @@
+{
+  "name": "sos1920-l04",
+  "version": "0.0.0",
+  "description": "results from l04",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanRafaelBF/SOS1920-labs.git"
+  },
+  "author": "JuanRafaelBF",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanRafaelBF/SOS1920-labs/issues"
+  },
+  "homepage": "https://github.com/JuanRafaelBF/SOS1920-labs#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4"
+  }
+}
